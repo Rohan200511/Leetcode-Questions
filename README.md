@@ -38,12 +38,15 @@
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Rohan200511/Leetcode-Questions/tree/master/0566-reshape-the-matrix) |
+| [0898-transpose-matrix](https://github.com/Rohan200511/Leetcode-Questions/tree/master/0898-transpose-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Rohan200511/Leetcode-Questions/tree/master/0566-reshape-the-matrix) |
+| [0898-transpose-matrix](https://github.com/Rohan200511/Leetcode-Questions/tree/master/0898-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Rohan200511/Leetcode-Questions/tree/master/0566-reshape-the-matrix) |
+| [0898-transpose-matrix](https://github.com/Rohan200511/Leetcode-Questions/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
