@@ -34,4 +34,16 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Rohan200511/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+## Array
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/Rohan200511/Leetcode-Questions/tree/master/0566-reshape-the-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/Rohan200511/Leetcode-Questions/tree/master/0566-reshape-the-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/Rohan200511/Leetcode-Questions/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
