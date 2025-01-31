@@ -43,6 +43,7 @@
 | [0566-reshape-the-matrix](https://github.com/Rohan200511/Leetcode-Questions/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/Rohan200511/Leetcode-Questions/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Rohan200511/Leetcode-Questions/tree/master/1677-matrix-diagonal-sum) |
+| [2102-find-the-middle-index-in-array](https://github.com/Rohan200511/Leetcode-Questions/tree/master/2102-find-the-middle-index-in-array) |
 ## Matrix
 |  |
 | ------- |
@@ -70,4 +71,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rohan200511/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [2102-find-the-middle-index-in-array](https://github.com/Rohan200511/Leetcode-Questions/tree/master/2102-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
