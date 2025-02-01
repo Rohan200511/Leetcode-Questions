@@ -32,6 +32,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Rohan200511/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rohan200511/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -71,8 +72,13 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rohan200511/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/Rohan200511/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2102-find-the-middle-index-in-array](https://github.com/Rohan200511/Leetcode-Questions/tree/master/2102-find-the-middle-index-in-array) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Rohan200511/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
