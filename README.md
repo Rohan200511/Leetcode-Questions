@@ -74,6 +74,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rohan200511/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rohan200511/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/Rohan200511/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
 ## Prefix Sum
 |  |
@@ -95,4 +96,16 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Rohan200511/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rohan200511/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rohan200511/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rohan200511/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
